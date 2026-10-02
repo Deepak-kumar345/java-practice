@@ -7,9 +7,9 @@ public class CircleOfCircumference {
         Scanner s = new Scanner(System.in);
         System.out.print("Enter the radius: ");
         double r = s.nextDouble();
-        double area = 2 * 3.14 * r;
-        System.out.println("Rectangle of Perimeter = " + area);
+        double circum = 2 * 3.14 * r;
+        System.out.println("Circle of Circumference = " + circum);
 
-}
 
+    }
 }
