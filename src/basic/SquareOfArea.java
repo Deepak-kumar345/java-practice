@@ -7,6 +7,6 @@ public class SquareOfArea {
         System.out.print("Enter the side : ");
         int sd = s.nextInt();
         int side = sd * sd;
-        System.out.println("Remender = " + side);
+        System.out.println("Area of Square = " + side);
     }
 }
