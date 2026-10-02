@@ -10,6 +10,6 @@ public class QuotientOfTwoNumber {
         System.out.print("Enter the second number :");
         float n2 = s.nextFloat();
         float mul = n1 / n2;
-        System.out.println("Multiply = " + mul);
+        System.out.println("Quotient = " + mul);
     }
 }
