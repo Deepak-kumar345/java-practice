@@ -1,25 +1,37 @@
 # Java Practice
 
-A hands-on Java programming repository covering core fundamentals, problem solving, and Data Structures & Algorithms practice.
+This repository contains my Java programming journey — from core fundamentals to problem-solving and Data Structures & Algorithms.
 
-## Topics Covered
+I am using this repository to practice Java consistently, understand programming logic, and build a strong foundation for backend development.
 
-- Java Fundamentals
-- Variables and Data Types
+## What I'm Practicing
+
+- Java fundamentals
+- Variables and data types
 - Operators
-- Conditional Statements
+- Conditional statements
 - Loops
 - Methods
 - Arrays
 - Strings
 - Object-Oriented Programming
+- Problem solving
 - Data Structures
 - Algorithms
-- Problem Solving
+
+## My Approach
+
+I am learning each concept step by step and then implementing it through small programs and coding exercises.
+
+The goal is not just to write code, but to understand the logic behind each solution.
+
+## Progress
+
+This repository will continue to grow as I learn new Java concepts and solve more programming problems.
 
 ## Goal
 
-Build strong Java fundamentals and gradually develop problem-solving and DSA skills through consistent coding practice.
+Build strong Java fundamentals, improve problem-solving skills, and use Java as the foundation for my backend development journey.
 
 ## Author
 
