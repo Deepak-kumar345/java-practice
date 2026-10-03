@@ -22,12 +22,13 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
-### IntelliJ IDEA Project Files ###
-.idea/
-*.iml
 
 ### VS Code ###
 .vscode/
 
 ### Mac OS ###
 .DS_Store
+
+### IntelliJ IDEA Project Files ###
+.idea/
+*.iml
