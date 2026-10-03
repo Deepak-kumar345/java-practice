@@ -17,15 +17,12 @@ A hands-on Java programming repository covering core fundamentals, problem solvi
 - Algorithms
 - Problem Solving
 
-## Repository Structure
+## Goal
 
-```text
-java-practice/
-├── src/
-│   ├── basic/
-│   ├── conditions/
-│   ├── loops/
-│   ├── arrays/
-│   ├── strings/
-│   └── dsa/
-└── README.md
+Build strong Java fundamentals and gradually develop problem-solving and DSA skills through consistent coding practice.
+
+## Author
+
+**Deepak Kumar**
+
+Aspiring Software Engineer | Java Backend Developer
