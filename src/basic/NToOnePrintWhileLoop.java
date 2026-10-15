@@ -7,7 +7,7 @@ public class NToOnePrintWhileLoop {
         System.out.print("Enter the number: ");
         int a = s.nextInt();
         int i = a;
-        while (i >= 0){
+        while (i >= 1){
             System.out.println(i);
             i--;
         }
